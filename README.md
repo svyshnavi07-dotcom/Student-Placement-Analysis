@@ -10,8 +10,8 @@ This project analyzes student placement data using Microsoft Power BI. It helps 
 
 ## Dataset
 - Total Students: 6000
-- Placed Students: 5000
-- Not Placed Students: 2000
+- Placed Students: 4500
+- Not Placed Students: 1500
 - Total Companies: 50
 - Highest Package: 14 LPA
 - Lowest Package: 3 LPA
